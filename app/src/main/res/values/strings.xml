@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Monowa</string>
+    <string name="email">email</string>
+    <string name="someuser">someUser</string>
+    <string name="password">password</string>
+    <string name="example_email_mx">example@email.mx</string>
+    <string name="register">REGISTER</string>
+    <string name="monowa">monowa</string>
+    <string name="monowa_logo">monowa logo</string>
+    <string name="dashboard_welcome">Bienvenido a</string>
+    <string name="dashboard_description">Tu espacio escolar único</string>
+    <string name="dashboard_action_sign_up">Empezar ahora</string>
+    <string name="dashboard_msg_account">¿Ya tienes cuenta?</string>
+    <string name="dashboard_action_login">Inicia sesión</string>
+    <string name="signup_title">Regístrate</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_title">Inicia sesión</string>
+    <string name="login_action_forgot">¿Olvidaste tu contraseña?</string>
+    <string name="login_action_login">Inicia sesión</string>
+    <string name="login_password_hint">Contraseña</string>
+    <string name="login_username_hint">Nombre de usuario</string>
+    <string name="signup_username_hint">Nombre de usuario</string>
+    <string name="signup_password_hint">Contraseña</string>
+    <string name="signup_email_hint">e-mail</string>
+    <string name="signup_action_signup">Registrarme</string>
+</resources>
